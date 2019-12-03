@@ -1,2 +1,2 @@
 # RFTfeladat8
-README megadható
+README megadható tetszőlegese.
